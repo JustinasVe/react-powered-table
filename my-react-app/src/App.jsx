@@ -1,7 +1,9 @@
+import { UserTable } from "./components/UserTable/UserTable";
+
 function App() {
   return (
     <>
-      <h1>App</h1>
+      <UserTable />
     </>
   );
 }
