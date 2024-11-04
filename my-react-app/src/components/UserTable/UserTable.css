@@ -5,6 +5,12 @@ table {
 
 th {
   font-weight: bold;
+  cursor: pointer;
+  user-select: none;
+}
+
+th:hover {
+  background-color: #f0f0f0;
 }
 
 th,
