@@ -18,3 +18,7 @@ td {
   border: 1px solid black;
   padding: 3px;
 }
+
+.rowCountSelector {
+  margin-bottom: 5px;
+}
